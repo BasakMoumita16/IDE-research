@@ -7,8 +7,6 @@
  > A useful open source text editor that understands web design.
  ## Link Below:
  [Brackets](http://brackets.io/ "Brackets")
- 
-[link text itself]
 
   ### Pros :smiley:
  
