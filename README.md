@@ -35,15 +35,32 @@ Though the website says there is an update available, the updater in Brackets ma
 <and language support plugins can be added>
 
 - Some gaps have to be filled by plugins, while these features should be built in.
-For example:
-
-Jump to matching brace (bracket / parenthesis);
+For example: Jump to matching brace (bracket / parenthesis);
 Gutter selection of lines;
 Recall previous searches / replacements;
 Autofill of search field with text under caret (text has to be selected);
 Show whitespace / end of lines / indentation guides / right margin;
 Selection to upper / lower case;
 and some more.
+
+
+### Bracket vs Visual Studio Code vs Atom
+
+| Brackets      | Visual Studio Code          | Atom  |
+| ------------- |:-------------:| -----:|
+| Simple               | Complex | Simple |
+| Live Preview Function    | Intelli-sense      |  Auto Completion |
+
+
+### Code Block
+
+```javascript
+<script type="text/javascript">  
+document.write("Brackets is compatible with JavaScript");  
+</script>  
+```
+
+
 
 
 
