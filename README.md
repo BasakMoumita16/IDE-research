@@ -62,10 +62,10 @@ document.write("Brackets is compatible with JavaScript");
 
 ### Number one reason for using brackets
 
- * [x] Simple
- * [ ] User Friendly
- * [ ] Free
- * [ ] Effective 
+ * (x) Simple
+ * ( ) User Friendly
+ * ( ) Free
+ * ( ) Effective 
  
 
 
