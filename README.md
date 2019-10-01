@@ -4,6 +4,9 @@
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)
 
  # Brackets
+ 
+[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+
   ### Pros :smiley:
  
  - Built-in browser live-updating
