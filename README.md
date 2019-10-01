@@ -1,11 +1,6 @@
 # IDE-research
 *-Which IDE will I use-*
 
- Visual Studio (free version; Pro), Codelite, brackets
-
-
-
-
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)
 
  # Brackets
